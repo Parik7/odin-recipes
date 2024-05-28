@@ -1,0 +1,22 @@
+h1 {border: 2px solid red;
+text-align: center;
+background-color: red;
+font-weight: bold;
+font-size: 40px;}
+
+p {font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;}
+
+ul,ol{font-size: 20px;
+}
+
+.container {display: flex;
+justify-content: center;
+align-items: center;}
+
+h2 {font-weight: bold;
+color: red;
+font-size: 30px;}
+
+
+p,li{color: blue;}
